@@ -3,8 +3,8 @@
 ```javascript
 const Jake = {
   pronouns: "he" | "him",
-  code: [Python, C/C++, HTML, CSS, Java, Javascript, MYSQL],
-  tools: [React, AWS, MongoDB],
+  code: [Python, C/C++, HTML, CSS, Java, Javascript, SQL],
+  tools: [React, AWS, MongoDB, Linux],
  challenge: "I am working on both front-end and back-end"
 }
 ```
