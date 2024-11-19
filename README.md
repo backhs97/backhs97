@@ -18,7 +18,7 @@ I'm a passionate software developer currently studying at California State Unive
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&weight=500&size=30&pause=1000&color=62E12C&width=435&lines=%F0%9F%8C%B1+Currently+Learning)](https://git.io/typing-svg)
 
-- Advanced backend development with Python & JaveScript.
+- Advanced backend development with React Native.
 - Cloud computing with AWS and Docker for scalable applications.
 - Exploring data structures and algorithms to improve problem-solving skills.
 
