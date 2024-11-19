@@ -4,7 +4,7 @@
 const Jake = {
   pronouns: "he" | "him",
   languages: [JavaScript, Python, Java, C/C++, C#, HTML, CSS, SQL],
-  tools: [Git, GitHub, AWS, MongoDB, PostgreSQL, Linux, Docker Compose, Jira, Trello, Supabase, Websocket],
+  tools: [Git, GitHub, AWS, MongoDB, PostgreSQL, Linux, Docker Compose, Jira, Trello, Supabase, Websocket, Agora, Hume AI],
   frameworks: [React, Node.js, Express, Sequelize, Docker],
 }
 ```
