@@ -12,7 +12,7 @@ const Jake = {
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&weight=500&size=30&pause=1000&color=948CF7&width=435&lines=%F0%9F%9A%80+Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg) 
 ![Visitor Count](https://komarev.com/ghpvc/?username=backhs97&color=blue) ![GitHub](https://img.shields.io/badge/GitHub-backhs97-lightgrey)
 
-I'm a passionate software developer currently studying at California State University, Long Beach. My journey in programming has led me to explore various languages and technologies, both in frontend and backend development.
+I'm a passionate software developer at California State University, Long Beach. My journey in programming has led me to explore various languages and technologies, both in frontend and backend development.
 
 ---
 
